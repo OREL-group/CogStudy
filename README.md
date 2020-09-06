@@ -11,4 +11,4 @@ Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3
 [Weekly Agenda: Project Board](https://github.com/jesparent/CogStudy/projects/1)
 
 09-09 First Meeting: Introduction and review of previous CogStudy discussions. 
-* Test 
+* Nunez et al: What happened to Cognitive Science?
