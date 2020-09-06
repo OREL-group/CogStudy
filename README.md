@@ -3,7 +3,7 @@
 
 Cognition Study Group  - weekly meetings, journal club, and projects looking at the scope, history & philosophy, and trajectory of classic cognitive science and new horizons for studying natural and artificial intelligence. 
 ### Participate
-Slack Channel (via OREL) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3_fg) | hashtag: #CogStudyJC
+Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3_fg) | hashtag: #CogStudyJC
 
 
 
