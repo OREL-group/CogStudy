@@ -5,7 +5,7 @@ Cognition Study Group  - weekly meetings, journal club, and projects looking at 
 
 ### Join our discussion group & weekly virtual meetings!
 Meetings Jisti | Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3_fg) | hashtag: #CogStudyJC
-Contact Jesse at jesse@alumni.albany [dot] edu
+* Contact Jesse at jesse [at] alumni.albany [dot] edu
 
 #### Contribute to this Repo
 * [Historical Resource List](https://github.com/jesparent/CogStudy/blob/master/Resources-Historical.md) (key dates, publications, events)
