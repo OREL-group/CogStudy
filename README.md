@@ -5,7 +5,7 @@ Cognition Study Group  - weekly meetings, journal club, and projects looking at 
 
 ### Join our discussion group & weekly virtual meetings!
 Meetings Jisti | Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3_fg) | hashtag: #CogStudyJC
-* Contact Jesse at jesse [at] alumni.albany [dot] edu
+* Contact Jesse via email:  jesse [at] alumni.albany [dot] edu ; Twitter @JesParent
 
 #### Contribute to this Repo
 * [Historical Resource List](https://github.com/jesparent/CogStudy/blob/master/Resources-Historical.md) (key dates, publications, events)
@@ -24,7 +24,7 @@ Meetings Jisti | Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BL
 If you'd like to flag an idea for discussion via this repo, make a pull request to add to this bulleted list, and it will be made into an Issue for the Agenda Board.
 * *Topic: Idea, Resource to Discuss (paper, video, etc)*
 * Cybernetics: What happened to Cybernetics? (M Boden, Preface)
-* 
+* Neuroscience: "Reflections on the past two decades of neuroscience", Bassett et al -  [Paper](https://www.nature.com/articles/s41583-020-0363-6)
 
 #### Contributors & Participants
 Jesse Parent. Anson Lim, (to be updated) 
