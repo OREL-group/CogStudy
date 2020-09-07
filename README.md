@@ -8,7 +8,7 @@ Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3
 
 #### Contribute
 * [Historical Resource List](https://github.com/jesparent/CogStudy/blob/master/Resources-Historical.md) (key dates, publications, events)
-* [Suggest a Discussion]() (below)
+* [Suggest a Discussion](https://github.com/jesparent/CogStudy/blob/master/README.md#suggest-a-discussion) (below)
 
 
 ## Meetings & Upcoming Agenda
@@ -21,8 +21,8 @@ Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BLYFqxxQHlnYeIc1ln3
 
 ## Suggest A Discussion
 If you'd like to flag an idea for discussion, please make a bullet point below 
-* Topic: Idea, Discussion
-* 
+* Topic: Idea, Resource to Discuss (paper, video, etc)
+* Cybernetics: What happened to Cybernetics? (M Boden, Preface)
 
 #### Contributors & Participants
 Jesse Parent. Anson Lim, (to be updated) 
