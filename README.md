@@ -30,4 +30,4 @@ If you'd like to flag an idea for discussion via this repo, make a pull request 
 #### Contributors & Participants
 Jesse Parent. Anson Lim, (to be updated) 
 
-*Thank you to Dr Bradly Alicea for mentorship & guidance, Dr Yohan John and Ryan W for inspiration*
+*Thank you to Dr Bradly Alicea for mentorship & guidance, Dr Yohan John and Ryan Lemasters for inspiration*
