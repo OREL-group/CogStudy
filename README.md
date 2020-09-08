@@ -1,4 +1,4 @@
-# CogStudy: A Journal Club & Learning Salon
+# CogStudy: A Journal Club & Salon
 *Where The Study of Cognition Has Been and Where it May Go*
 
 Cognition Study Group  - weekly meetings, journal club, and projects looking at the scope, history & philosophy, and trajectory of classic cognitive science and new horizons for studying natural and artificial intelligence. 
