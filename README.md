@@ -16,7 +16,7 @@ Meetings Jisti | Slack Channel (ask) | [Telegram Group](https://t.me/joinchat/BL
 ## Meetings & Upcoming Agenda
 [Agenda: Project Board](https://github.com/jesparent/CogStudy/projects/1) | [Meeting Notes](https://github.com/jesparent/CogStudy/tree/master/MeetingNotes)
 
-09-09 First Meeting: Introduction and review of previous CogStudy discussions. 
+09-20 First Meeting: Introduction and review of previous CogStudy discussions. 
 * Nunez et al: What happened to Cognitive Science?
 
 
